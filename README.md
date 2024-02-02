@@ -1,6 +1,6 @@
 # -MCForge-1.12.2-AftergrowChest
  
- A mod that use for personal chest, like a bukkit plugin called "TreatureChest"
+ A mod that use for personal chest, like a bukkit plugin called "TreasureChest"
 
 # Future Task
 
