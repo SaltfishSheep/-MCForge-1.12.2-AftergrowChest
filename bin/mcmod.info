@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aftergrowchest",
+  "name": "AftergrowChest",
+  "description": "A mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Saltfish_Sheep"],
+  "credits": "Just a mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
